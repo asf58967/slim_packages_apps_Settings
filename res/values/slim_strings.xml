@@ -1286,4 +1286,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="proximity_wake_title">Prevent accidental wake-up</string>
     <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
 
+    <!-- Network activity arrows -->
+    <string name="show_network_activity">Network activity arrows</string>
+    <string name="show_network_activity_summary">Show network activity arrows on network icons</string>
+
 </resources>
