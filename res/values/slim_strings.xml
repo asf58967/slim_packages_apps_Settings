@@ -1293,4 +1293,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="disable_smart_cover_title">Force disable smart cover window</string>
     <string name="disable_smart_cover_desc">Check if your phone has a smart cover and you do not wish to trigger the smart window</string>
 
+    <!-- Network activity arrows -->
+    <string name="show_network_activity">Network activity arrows</string>
+    <string name="show_network_activity_summary">Show network activity arrows on network icons</string>
+
 </resources>
